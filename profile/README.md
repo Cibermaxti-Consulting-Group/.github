@@ -30,15 +30,15 @@ Ser reconocidos como líderes en consultoría de tecnología y ciberseguridad, d
 Para más información o consultas, no dudes en contactarnos:
 - 📧 Email: [info@cibermaxti.com](mailto:info@cibermaxti.com)
 - 🌐 Sitio Web: [www.cibermaxti.com](http://www.cibermaxti.com)
-- 📱 Teléfono: (Número de Teléfono)
+- 📱 Teléfono: (+18097674860)
 
 ## 📍 Ubicación
 (Nombre de la Calle), (Número), (Ciudad), (País)
 
 ## 🌐 Redes Sociales
-- [LinkedIn](URL_DE_LINKEDIN)
-- [Twitter](URL_DE_TWITTER)
-- [Facebook](URL_DE_FACEBOOK)
+- [Instagram](https://www.instagram.com/cibermaxtigroup/)
+- [Twitter](https://twitter.com/CibermaxtiGroup)
+- [Facebook](https://www.facebook.com/CibermaxtiGroup)
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
