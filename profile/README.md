@@ -33,7 +33,7 @@ Para más información o consultas, no dudes en contactarnos:
 - 📱 Teléfono: (+18097674860)
 
 ## 📍 Ubicación
-(Nombre de la Calle), (Número), (Ciudad), (País)
+(Nombre de la Calle), (Número), (Santo Domingo), (Republica Dominicana)
 
 ## 🌐 Redes Sociales
 - [Instagram](https://www.instagram.com/cibermaxtigroup/)
