@@ -1,6 +1,6 @@
 # Cibermaxti Consulting Group
 
-![Logo de Cibermaxti Consulting Group]([URL_DEL_LOGO](https://pub-048b20f5730e4cf59b7ce40a3d44c2b6.r2.dev/main-logo-transparent.png))
+![Logo de Cibermaxti Consulting Group](https://pub-048b20f5730e4cf59b7ce40a3d44c2b6.r2.dev/main-logo-transparent.png)
 
 ## 🌐 Bienvenido/a a Cibermaxti Consulting Group
 Somos líderes en consultoría especializada en tecnología y ciberseguridad, comprometidos con proteger y fortalecer la infraestructura y los activos digitales de nuestros clientes. Nuestra misión es brindar servicios de excelencia y valor agregado para garantizar el éxito y la seguridad de nuestros clientes en un mundo digital en constante evolución.
